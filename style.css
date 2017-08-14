@@ -117,9 +117,9 @@ a:hover {
 }
 #picture {
 	float: right;
-	width: 260px;
+	/*width: 260px;*/
 	height: 252px;
-	padding: 20px 0px 0px 0px;
+	padding: 5px 0px 0px 0px;
 }
 #search form {
 	height: 41px;
@@ -310,7 +310,7 @@ a:hover {
 
 #sidebar h2 {
 	height: 38px;
-	padding-left: 30px;
+	padding-left: 0px;
 	letter-spacing: -.5px;
 	font-size: 1.8em;
 }
@@ -327,8 +327,8 @@ a:hover {
 }
 
 #sidebar a:hover {
-	text-decoration: underline;
-	color: #8A8A8A;
+	#text-decoration: underline;
+	color: #1582AB;
 }
 
 /* Calendar */
@@ -375,4 +375,13 @@ a:hover {
 
 #footer a {
 	color: #FFFFFF;
+}
+
+#profile ul.social-icon {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin-top: 30px;
 }
