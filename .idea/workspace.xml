@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95bab9ee-24fc-49c9-8128-4718b6cb8165" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,12 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+            <state relative-caret-position="620">
+              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text-chart-ref-export (2).json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AutomaticReferencer/public/errorAnalysis/text-chart-ref-export (2).json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="768" column="8" lean-forward="true" selection-start-line="768" selection-start-column="8" selection-end-line="768" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!block;n#passed_users#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#17_1#0;n#!!block;n#cell_phone_activities_2012#0;n#!!block;n#result#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +104,8 @@
     <findStrings>
       <find>a:</find>
       <find>works</find>
+      <find>about</find>
+      <find>admin0</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,9 +129,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -180,15 +194,15 @@
       <option name="presentableId" value="Default" />
       <updated>1502690203966</updated>
       <workItem from="1502690205636" duration="1443000" />
-      <workItem from="1502693212244" duration="2000000" />
+      <workItem from="1502693212244" duration="3004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3443000" />
+    <option name="totallyTimeSpent" value="4447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <frame x="-8" y="0" width="1932" height="1036" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -321,9 +335,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        <state relative-caret-position="620">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AutomaticReferencer/public/errorAnalysis/text-chart-ref-export (2).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="768" column="8" lean-forward="true" selection-start-line="768" selection-start-column="8" selection-end-line="768" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!block;n#passed_users#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#17_1#0;n#!!block;n#cell_phone_activities_2012#0;n#!!block;n#result#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
