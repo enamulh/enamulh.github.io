@@ -21,21 +21,25 @@ h1 {
 }
 
 h2 {
-	font-size: 2em;
-	ont-weight: bold;
-	color: #339CCB;
+	/*font-size: 2em;*/
+	font-weight: bold;
+    margin-bottom: 10px;
+	/*color: #339CCB;*/
+    color: #1582AB;
+
 }
 
 h3 {
-	font-size: 1.6em;
+	font-size: 1.2em;
 	color: #339CCB;
+
 }
 
 p, ul, ol {
 	margin-top: 0;
 	line-height: 150%;
 }
-li{
+.publication li{
 	margin: 0 0 10px 0;
 }
 
@@ -64,7 +68,7 @@ a:hover {
 }
 
 #header {
-	width: 950px;
+	width: 1020px;
 	margin: 0 auto;
 	padding: 0px 0px 0px 30px;
 }
@@ -73,7 +77,7 @@ a:hover {
 
 #logo {
 	float: left;
-	width: 350px;
+	width: 320px;
 	margin: 0;
 	padding: 0;
 	color: #000000;
@@ -269,17 +273,17 @@ a:hover {
 	width: 280px;
 	margin: 0px;
 	padding: 0px 20px 0px 0px;
-	color: #787878;
+	/*color: #787878;*/
 }
 
 #sidebar ul {
-	margin: 0;
+    margin-top: 5px;
 	padding: 0;
 	list-style: none;
 }
 
 #sidebar li {
-	margin: 0;
+    margin-bottom: 15px;
 	padding: 0;
 }
 
@@ -309,10 +313,14 @@ a:hover {
 }
 
 #sidebar h2 {
-	height: 38px;
+	/*height: 38px;*/
 	padding-left: 0px;
 	letter-spacing: -.5px;
-	font-size: 1.8em;
+	/*font-size: 1.8em;*/
+}
+#sidebar .date {
+    color: #999 !important;
+    font-size: 11px;
 }
 
 #sidebar p {
@@ -321,15 +329,15 @@ a:hover {
 	text-align: justify;
 }
 
-#sidebar a {
-	border: none;
-	color: #339CCB;
-}
+/*#sidebar a {*/
+	/*border: none;*/
+	/*color: #339CCB;*/
+/*}*/
 
-#sidebar a:hover {
-	#text-decoration: underline;
-	color: #1582AB;
-}
+/*#sidebar a:hover {*/
+	/*#text-decoration: underline;*/
+	/*color: #1582AB;*/
+/*}*/
 
 /* Calendar */
 
@@ -384,4 +392,31 @@ a:hover {
   list-style: none;
   padding: 0;
   margin-top: 30px;
+}
+div .news{
+    margin-bottom: 10px;
+}
+
+.proj {
+    /*width: 555px;*/
+    margin: 0px 0px 10px 0px;
+    /*padding: 0px 0px 10px 0px;*/
+    float: left;
+}
+.proj .text {
+    float: right;
+    width: 400px;
+}
+
+.proj .thumb {
+    margin-top: 5px;
+    margin-right: 10px;
+    float: left;
+    width: 180px;
+    /*border-radius: 0.5em;*/
+    padding: 0.15em;
+    /*border: 0.1em solid #dddddd;*/
+    /*box-shadow: 0 0 0.1em 0.1em;*/
+    border-radius: 10px;
+    border: 1px solid darkgray;
 }
