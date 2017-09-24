@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="courses.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/courses.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="573">
@@ -80,13 +80,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="570">
+              <caret line="414" column="13" lean-forward="false" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
               <folding>
-                <marker date="1506197323558" expanded="true" signature="3435:3450" ph="..." />
+                <marker date="1506200604798" expanded="true" signature="3435:3450" ph="..." />
               </folding>
             </state>
           </provider>
@@ -134,8 +134,8 @@
       <find>applyi</find>
       <find>imag</find>
       <find>goo</find>
-      <find>&lt;div style=&quot;clear: both;&quot;&gt;&amp;nbsp;&lt;/div&gt;</find>
       <find>goog</find>
+      <find>&lt;div style=&quot;clear: both;&quot;&gt;&amp;nbsp;&lt;/div&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>Publications</replace>
@@ -148,11 +148,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/academic-icons.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/courses.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -261,12 +261,12 @@
       <updated>1502690203966</updated>
       <workItem from="1502690205636" duration="1443000" />
       <workItem from="1502693212244" duration="3004000" />
-      <workItem from="1506146317160" duration="16093000" />
+      <workItem from="1506146317160" duration="16708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20540000" />
+    <option name="totallyTimeSpent" value="21155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -348,7 +348,7 @@
         <state relative-caret-position="7590">
           <caret line="330" column="18" lean-forward="false" selection-start-line="330" selection-start-column="18" selection-end-line="330" selection-end-column="18" />
           <folding>
-            <marker date="1506197323558" expanded="true" signature="3435:3450" ph="..." />
+            <marker date="1506200604798" expanded="true" signature="3435:3450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -395,7 +395,7 @@
         <state relative-caret-position="3332">
           <caret line="119" column="19" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="21" />
           <folding>
-            <marker date="1506197323558" expanded="true" signature="3435:3450" ph="..." />
+            <marker date="1506200604798" expanded="true" signature="3435:3450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -425,16 +425,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AutomaticReferencer/public/errorAnalysis/text-chart-ref-export (2).json" />
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <marker date="1506197323558" expanded="true" signature="3435:3450" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -477,6 +467,16 @@
         <state relative-caret-position="573">
           <caret line="45" column="100" lean-forward="false" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="414" column="13" lean-forward="false" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
+          <folding>
+            <marker date="1506200604798" expanded="true" signature="3435:3450" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
