@@ -420,3 +420,37 @@ div .news{
     border-radius: 10px;
     border: 1px solid darkgray;
 }
+
+.talk {
+	/*width: 555px;*/
+	margin: 0px 0px 10px 0px;
+	/*padding: 0px 0px 10px 0px;*/
+	float: left;
+}
+.talk .text {
+	float: right;
+	width: 650px;
+}
+
+.talk .thumb {
+	margin-top: 5px;
+	margin-right: 10px;
+	float: left;
+	width: 170px;
+	/*border-radius: 0.5em;*/
+	padding: 0.15em;
+	/*border: 0.1em solid #dddddd;*/
+	/*box-shadow: 0 0 0.1em 0.1em;*/
+	border-radius: 10px;
+	border: 1px solid darkgray;
+}
+.talk p {
+	font-size: 12px;
+	margin-top: 5px;
+	color: black;
+}
+.talk h4 {
+
+	margin: 0;
+
+}
