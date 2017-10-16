@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95bab9ee-24fc-49c9-8128-4718b6cb8165" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,16 +40,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xhtml1-strict.dtd" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-strict.dtd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="582" column="10" lean-forward="false" selection-start-line="582" selection-start-column="10" selection-end-line="582" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Enamul_bio.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Enamul_bio.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2215">
-              <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+            <state relative-caret-position="52">
+              <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -99,13 +90,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="438" column="13" lean-forward="false" selection-start-line="438" selection-start-column="13" selection-end-line="438" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="161" column="13" lean-forward="false" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
               <folding>
-                <marker date="1508047250001" expanded="true" signature="3435:3450" ph="..." />
+                <marker date="1508196396069" expanded="true" signature="3435:3450" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,12 +159,12 @@
       <list>
         <option value="$PROJECT_DIR$/css/academic-icons.css" />
         <option value="$PROJECT_DIR$/Enamul_bio.txt" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/talks.html" />
         <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -298,12 +289,12 @@
       <workItem from="1502690205636" duration="1443000" />
       <workItem from="1502693212244" duration="3004000" />
       <workItem from="1506146317160" duration="20454000" />
-      <workItem from="1508042597417" duration="7241000" />
+      <workItem from="1508042597417" duration="7958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32142000" />
+    <option name="totallyTimeSpent" value="32859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -388,7 +379,7 @@
         <state relative-caret-position="9522">
           <caret line="414" column="13" lean-forward="false" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
           <folding>
-            <marker date="1508047250001" expanded="true" signature="3435:3450" ph="..." />
+            <marker date="1508196396069" expanded="true" signature="3435:3450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -430,7 +421,7 @@
         <state relative-caret-position="7590">
           <caret line="330" column="18" lean-forward="false" selection-start-line="330" selection-start-column="18" selection-end-line="330" selection-end-column="18" />
           <folding>
-            <marker date="1508047250001" expanded="true" signature="3435:3450" ph="..." />
+            <marker date="1508196396069" expanded="true" signature="3435:3450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -464,7 +455,7 @@
         <state relative-caret-position="3332">
           <caret line="119" column="19" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="21" />
           <folding>
-            <marker date="1508047250001" expanded="true" signature="3435:3450" ph="..." />
+            <marker date="1508196396069" expanded="true" signature="3435:3450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -510,16 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="438" column="13" lean-forward="false" selection-start-line="438" selection-start-column="13" selection-end-line="438" selection-end-column="13" />
-          <folding>
-            <marker date="1508047250001" expanded="true" signature="3435:3450" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -554,9 +535,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2215">
-          <caret line="156" column="0" lean-forward="true" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+        <state relative-caret-position="52">
+          <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="161" column="13" lean-forward="false" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+          <folding>
+            <marker date="1508196396069" expanded="true" signature="3435:3450" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
