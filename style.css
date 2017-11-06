@@ -405,7 +405,7 @@ div .news{
 }
 .proj .text {
     float: right;
-    width: 400px;
+    /*width: 400px;*/
 }
 
 .proj .thumb {
@@ -453,4 +453,38 @@ div .news{
 
 	margin: 0;
 
+}
+
+.pub {
+	/*width: 555px;*/
+	margin: 0px 0px 10px 0px;
+	/*padding: 0px 0px 10px 0px;*/
+	float: left;
+}
+.pub .text {
+	float: right;
+	max-width: 700px;
+	/*width: 400px;*/
+}
+
+.pub a {
+	font-weight: bold;
+}
+.pub .thumb {
+	margin-top: 5px;
+	margin-right: 10px;
+	float: left;
+	width: 170px;
+	/*border-radius: 0.5em;*/
+	padding: 0.15em;
+	/*border: 0.1em solid #dddddd;*/
+	/*box-shadow: 0 0 0.1em 0.1em;*/
+	border-radius: 5px;
+	border: 1px solid lightgray;
+}
+.pub h2{
+	font-size: 24px;
+}
+.pub h3{
+	font-size: 14px;
 }
