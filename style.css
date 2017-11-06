@@ -405,7 +405,7 @@ div .news{
 }
 .proj .text {
     float: right;
-    /*width: 400px;*/
+    width: 400px;
 }
 
 .proj .thumb {
