@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95bab9ee-24fc-49c9-8128-4718b6cb8165" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Enamul_bio.txt" afterPath="$PROJECT_DIR$/Enamul_bio.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,8 +55,8 @@
       <file leaf-file-name="Enamul_bio.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Enamul_bio.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="931" lean-forward="false" selection-start-line="0" selection-start-column="931" selection-end-line="0" selection-end-column="931" />
+            <state relative-caret-position="140">
+              <caret line="5" column="213" lean-forward="false" selection-start-line="5" selection-start-column="213" selection-end-line="5" selection-end-column="213" />
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
       <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="585" column="28" lean-forward="false" selection-start-line="585" selection-start-column="28" selection-end-line="585" selection-end-column="28" />
+            <state relative-caret-position="376">
+              <caret line="599" column="33" lean-forward="false" selection-start-line="599" selection-start-column="33" selection-end-line="599" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#1734#1740#0" expanded="true" />
@@ -192,7 +192,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -311,15 +311,15 @@
       <workItem from="1506146317160" duration="20454000" />
       <workItem from="1508042597417" duration="12276000" />
       <workItem from="1509848087092" duration="21686000" />
-      <workItem from="1510629986610" duration="1071000" />
+      <workItem from="1510629986610" duration="2271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59934000" />
+    <option name="totallyTimeSpent" value="61134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16197917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -756,8 +756,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Enamul_bio.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="931" lean-forward="false" selection-start-line="0" selection-start-column="931" selection-end-line="0" selection-end-column="931" />
+        <state relative-caret-position="140">
+          <caret line="5" column="213" lean-forward="false" selection-start-line="5" selection-start-column="213" selection-end-line="5" selection-end-column="213" />
           <folding />
         </state>
       </provider>
@@ -833,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="585" column="28" lean-forward="false" selection-start-line="585" selection-start-column="28" selection-end-line="585" selection-end-column="28" />
+        <state relative-caret-position="376">
+          <caret line="599" column="33" lean-forward="false" selection-start-line="599" selection-start-column="33" selection-end-line="599" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#1734#1740#0" expanded="true" />
