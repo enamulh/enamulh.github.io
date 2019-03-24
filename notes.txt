@@ -1,1 +1,32 @@
-I am starting as an Assistant Professor in the School of Information Technology at York University starting August 2018! I am looking for qualified students, both graduate and undergraduate, who are interested in doing research with me on a wide range of HCI topics. Please drop me an email with your CV if you are interested!
+Meeting with supervisor
+========================
+The time you spend with your supervisor is very precious. Therefore, it's very important to take your time preparing for the meeting. Here are my few advices on having a productive meeting with your supervisor. 
+
+Before meeting: First, make a bullet list of agenda. Then summarize what you have done in the past week. You can specify which ones are done/on-going/haven't started yet. 
+
+It's often useful to summarize your work in the last week and agenda in a slide deck. Put your results or any findings in the slide deck. Put relevant examples, figures, and notes there. Over the span of your graduate life, the powerpoint document will become a living diary for your thesis. And it's much easier to go back to earlier slides to remember any decision, agenda, or action items that you may have forgotten.  You can also write formulas/draw figures on paper when it is more convenient than on slides. From my own experience as a graduate student, I found this approach of maintaining write-ups/slide decks regularly to be very effective. If you want to discuss any papers keep them open and may summarize them in a few slides.
+
+During the meeting: Present the agenda first and then what you have done so far using slide decks/ write-ups. Write any major points, decisions or action items using powerpoint or on papers. At the end of meeting confirm what are the summaries of action items of the next week.
+
+After the meeting: Make a short summary of the meetings: what decisions were made? What are the todos for the next week? Feel free to share your meeting notes/summaries with your supervisor to double check if everything is right.
+ 
+
+Additional pieces of advice: There are tons of pieces of advice from other professors. 
+Not all of them might be relevant, but if you like you can adopt additional suggestions from below:
+https://www.cs.ubc.ca/~tmm/policy.txt
+https://azzablogs.wordpress.com/2017/05/21/managing-your-advisor-the-art-of-the-meeting/
+
+
+Writing
+=======
+
+Some tips on writing papers.
+https://www.cs.ubc.ca/~tmm/writing.html
+
+
+https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper/
+https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf
+
+Archiving Code and Data
+======================
+Always use some software (e.g. Github) to store your code and Data and make sure you regularly update the repository.
