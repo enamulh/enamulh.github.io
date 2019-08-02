@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css" rel="stylesheet">
+
+    <style type="text/css">
+      .author {
+        text-align: center;
+      }
+      .authorname {
+        font-weight: 400;
+      }
+      .abstract {
+        font-size: 1.3em;
+      }
+      .headinglink {
+        font-size: 0.9em;
+      }
+      .embed-container { 
+        position: relative; 
+        padding-bottom: 56.25%; 
+        height: 0; 
+        overflow: hidden; 
+        max-width: 100%; 
+      } 
+      .embed-container iframe, .embed-container object, .embed-container embed { 
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+        width: 100%; 
+        height: 100%; 
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-12" style="text-align:center">
+            <h1>Searching the Visual Style and Structure of D3 Visualizations</h1>
+          </div>
+        </div>
+        <div class="row" style="padding-left: 32%">
+          <div class="col-sm-3 author">
+            <p class="lead"><a href="https://www.yorku.ca/enamulh/" class="authorname">Enamul Hoque</a><br>York Univrsity</p>
+          </div>
+          <div class="col-sm-3 author">
+            <p class="lead"><a href="http://graphics.stanford.edu/~maneesh/" class="authorname">Maneesh Agrawala</a><br>Stanford University</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <center>
+              <img src="img/teaser_scatter_plot_contrast.png" width="95%" hspace="2%">
+            </center>
+            <h3>Abstract</h3>
+            <p class="lead abstract">
+              We present a search engine for D3 visualizations that allows queries based on their visual style and underlying structure. To build the engine we crawl a collection of 7860 D3 visualizations from the Web and deconstruct each one to recover its data, its data-encoding marks and the encodings describing how the data is mapped to visual attributes of the marks. We also extract axes and other non-data-encoding attributes of marks (e.g., typeface, background color). Our search engine indexes this style and structure information as well as metadata about the webpage containing the chart. We show how visualization developers can search the collection to find visualizations that exhibit specific design characteristics and thereby explore the space of possible designs. We also demonstrate how researchers can use the search engine to identify commonly used visual design patterns and we perform such a demographic design analysis across our collection of D3 charts. A user study reveals that visualization developers found our style and structure based search engine to be significantly more useful and satisfying for finding different designs of D3 charts, than a baseline search engine that only allows keyword search over the webpage containing a chart.
+            </p>
+          </div>
+        </div>
+        <h3>Paper
+          <a href="pdf/paper.pdf" class="headinglink">PDF (5.5MB)</a>
+        </h3>
+        <h3>Video
+          <a href="video/Vis 2019_camera.mp4" class="headinglink">MP4 (87.7MB)</a>
+        </h3>
+        <!--<div class="embed-container">-->
+          <!--<iframe src="https://www.youtube.com/embed/Jw5UFprEZ88" frameborder="0" allowfullscreen></iframe>-->
+        <!--</div>-->
+      <h3>Live Demo</h3>
+      <div>Coming soon.</div>
+        <h3>Bibtex</h3>
+          <pre>@inproceedings{hoque-vis-search-2019,
+  title={Searching the Visual Style and Structure of D3 Visualizations},
+  author={Hoque, Enamul and  Agrawala, Maneesh},
+  booktitle={IEEE Transactions on Visualization and Computer Graphics (Proc IEEE InfoVis 2019), to appear},
+  year={2019},
+  organization={IEEE}
+}</pre>
+    </div>
+  </body>
+</html>
